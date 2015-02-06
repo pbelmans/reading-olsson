@@ -57,3 +57,19 @@ page 64, lemma 2.4.18: the ()'s for e^* in the Cech complex notation have been d
 page 65, line 6: multi-index instead of multiindex
 page 65, line 12: you might want to say theorem 8.3.8, as there's multiple 8.3.8's in Weibel (also an exercise)
 page 66, line 11: superfluous the
+
+Friday February 6
+-----------------
+page 73, line 11: espace is without the accent
+page 74, line -16: p:F\to C is a category fibered over C, not a fibered category (because that is only defined a few lines later)
+page 76, line -15: fully instead of full (I will stop saying this from now on)
+page 87, line 14: you are missing the compositions (maybe intentional, but it is certainly not consistent, and pervades the rest of the book from this point on)
+page 90, line -4: respectively instead of respetively
+page 91, line 12: you might want to write i instead of \imath to keep up with the notation introduced in 3.4.4
+page 93, line -9: maybe switch p_1 and p_2 to stay consistent with (4.1.6.1)
+page 98, line 15: the notation for F(f:X->Y) is inconsistent, compare e.g. to page 100, line 2, where the kerning and the arrow is different, maybe because of the use of a \longarrow and \overset?
+page 99, line -16: do you want to use the word covering here? at this point it is an arbitrary morphism, not necessarily something related to the topology?
+page 103, line 11: maybe fppf topology is better than fppf-topology?
+page 105, line 7: the reduction is to a direct sum of copies of O_S, not O
+page 107, line -13: earlier you wrote Zar instead of zar
+page 112, line 3: you are missing a \otimes N in the exponent?
