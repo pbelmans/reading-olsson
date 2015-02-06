@@ -1,0 +1,13 @@
+1) The exposition in paragraph 1.3.3 seems to be suboptimal (observe that there is also a large number of confusion and typos, see typos.txt). We don't necessarily have an actual question (after some work and reading EGA we understand what is going on) but there is room for improvement. We can make suggestions if you want.
+
+2) On page 47, after example 2.2.10, the smooth site is omitted from the list of sites that can be defined using affine schemes. Is this intentional?
+
+3) Is it worthwile to mention the problems with the fpqc site here? What exactly *are* the problems? As mentioned in tag 022A of the Stacks project: there is no sheafification, and no functoriality on the level of sites (unless one does tricks with universes)?
+
+3) In example 3.1.5 it is mentioned that fibered categories are a workaround to a technical obstacle. Where can we see this obstacle in action in the book? It seems that the philosophy seems to be that "fibered categories are a more flexible world in which you can make constructions, that you can then split if you like" but we haven't found an absolutely explicit instance of this.
+
+4) In lemma 3.1.8 the converse is also (trivially) true. Why not mention this? Or are we wrong?
+
+5) In theorem 3.3.2, one uses the axiom of choice in the construction of the morphisms, as \alpha requires AC?
+
+6) In exercise 3.C we've had some fun computing the construction of theorem 3.3.2 for the example in (iii). Maybe you can add this as another exercise?
