@@ -71,5 +71,6 @@ page 98, line 15: the notation for F(f:X->Y) is inconsistent, compare e.g. to pa
 page 99, line -16: do you want to use the word covering here? at this point it is an arbitrary morphism, not necessarily something related to the topology?
 page 103, line 11: maybe fppf topology is better than fppf-topology?
 page 105, line 7: the reduction is to a direct sum of copies of O_S, not O
+page 106, line 10: sheaves instead of sheaf
 page 107, line -13: earlier you wrote Zar instead of zar
 page 112, line 3: you are missing a \otimes N in the exponent?
