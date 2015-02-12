@@ -13,3 +13,5 @@
 6) In exercise 3.C we've had some fun computing the construction of theorem 3.3.2 for the example in (iii). Maybe you can add this as another exercise?
 
 7) Should there be a general form of 1.1.6 in the notes? Because the non-locally noetherian form is used in the proof of lemma 4.1.10, and this is a crucial proof.
+
+8) It is not entirely clear to us how to obtain, with all the gory details, the diagram on the last line of page 100, via the pullback of (4.2.1.1) along the indicated morphism.

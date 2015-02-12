@@ -74,3 +74,13 @@ page 105, line 7: the reduction is to a direct sum of copies of O_S, not O
 page 106, line 10: sheaves instead of sheaf
 page 107, line -13: earlier you wrote Zar instead of zar
 page 112, line 3: you are missing a \otimes N in the exponent?
+
+Thursday February 13
+--------------------
+page 103, line -9: Mod_Y should be Mod_X
+page 105, line 9: the notation \Gamma(C,G) is not clear, do you mean \Gamma(S,G) with S being the final object in the category C that we are using all along?
+page 106, line 7: pairs instead of pair
+page 106, line 17: we were confused by the reduction to qcqs, as there is no explicit reference to the fact that only then direct images preserve coherence, and that this is used implicitly in 4.2.11 when applying it to QCOH
+page 110, line -16: the morphisms are proper *and* flat, not just proper
+page 111, line 14: it is not at all clear that E' is a locally free sheaf (the result is EGA III.7.9.10), which requires the missing flatness condition, and the result is not something that we consider obvious
+page 112, line 3: \otimes N missing in the definition of the E_i
