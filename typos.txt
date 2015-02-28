@@ -83,4 +83,27 @@ page 106, line 7: pairs instead of pair
 page 106, line 17: we were confused by the reduction to qcqs, as there is no explicit reference to the fact that only then direct images preserve coherence, and that this is used implicitly in 4.2.11 when applying it to QCOH
 page 110, line -16: the morphisms are proper *and* flat, not just proper
 page 111, line 14: it is not at all clear that E' is a locally free sheaf (the result is EGA III.7.9.10), which requires the missing flatness condition, and the result is not something that we consider obvious
-page 112, line 3: \otimes N missing in the definition of the E_i
+
+Saturday February 28
+--------------------
+page 113, line -7: fppf-sheaves while most of the time you would write fppf sheaves
+page 115, line 6: the notation for topos seems to go wrong a bit, with the tilde being inside the C
+page 115, line 6: maybe you should mention this observation regarding torsors in a topos before you say we can fix a global section on page 114, line -4?
+page 116, line -1: \Sigma_n instead of \Sigma
+page 117, line -18: there is a ( missing in the definition of the étale cover
+page 117, line -15: maybe you should refer to exercise 4.G for more information?
+page 117, line -9: the notation * is not really introduced anywhere
+page 119, line 15: the reference should be to tag 02ZP
+page 120, line 7: there is an I missing in the codomain of the morphism, where you are indexing the objects X_i\to X
+page 123, line 10: associates instead of asociates
+page 123, line -7: should it say isomorphic, or equivalent?
+page 125, line -6: there is an in missing, $f$ is *in* $D$
+page 126, line -17: should it say f:X\to Y be a morphism of *S-schemes* instead of schemes?
+page 129, line -7: there is a superfluous space after S
+page 132, line 8: "which maps by a representable open imbedding" sounds confusing
+page 132, line -7: there is an s missing in follow
+page 134, line 6: image instead of images
+page 136, line 12: the first fiber product is over a fiber product which should be X_1\times_X X_1 if I'm not mistaken
+page 138, line -2: the definition is in 5.4.3, not 5.4.4
+page 139, line -9: the definition is in 5.4.3, not 5.4.4
+page 140, line -18: \bigcup instead of \cup
