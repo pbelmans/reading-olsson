@@ -107,3 +107,31 @@ page 136, line 12: the first fiber product is over a fiber product which should 
 page 138, line -2: the definition is in 5.4.3, not 5.4.4
 page 139, line -9: the definition is in 5.4.3, not 5.4.4
 page 140, line -18: \bigcup instead of \cup
+
+Thursday March 26
+-----------------
+page 142, line 12: k-points instead of k points
+page 142, line 13: Spec(A^G) instead of Spec(A)
+page 142, line -2: If instead of if
+page 144, line 5: P^ is not really introduced
+page 145, line -7: the maps \delta_0 (resp. \delta_1) were denoted before as s^* (resp. t^*)
+page 145, line -3: R was denoted X_1 before, and R is not used afterwards
+page 146, line 15: squares instead of square
+page 150, line -20: of instead of over
+page 152, line -23: superfluous hyphen for 1 variable
+page 153, line -13: there is a ) missing in the first factor of the coproduct of the fiber products
+page 153, line -12: same syntax error
+page 153, line -10: same syntax error
+page 155, line -7: positive-dimensional instead of positive dimensional
+page 156, exercise 6.G(ii): the statement seems to be incomplete?
+page 161, line 10: restriction instead of restruction
+page 162, line 13: T-scheme instead of T-sheme
+page 164, line -1: no underline for relative Spec (or maybe it'd be better to use underlines everywhere)
+page 166, line -13: maybe it's better to say "and c and hence b are closed imbeddings", because the only way we can prove it is by base changing c
+page 167, line -19: maybe add some context on why you give the example at this point?
+page 167, line -14: H^0 instead of h^0
+page 167, line -14: there is an n missing in the last tensor power
+page 167, line -13: holds instead of hold
+page 167, line -9: \bigoplus instead of \oplus (also line -1, and next page)
+page 168, line 14: have instead of haves
+page 168, line 21: is there an of missing at the end?
