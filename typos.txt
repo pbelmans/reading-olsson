@@ -135,3 +135,16 @@ page 167, line -13: holds instead of hold
 page 167, line -9: \bigoplus instead of \oplus (also line -1, and next page)
 page 168, line 14: have instead of haves
 page 168, line 21: is there an of missing at the end?
+page 170, line 4: such *that*
+
+Sunday April 12
+---------------
+page 171, line 16: d\'evissage is with an accent
+page 171, line 16: the ring A isn't used later on, except for possible confusion with objects in the abelian category \mathcal{A}'
+page 171, line -13: coherent sheaves supported on strictly smaller closed subsets can be supposed to lie in A' (not A, which they lie in by assumption)
+page 171, line -3: \eqref for the reference to the equation
+page 172, line 8: G^r|_V instead of G_V^r
+page 172, line -13: maybe say strictly smaller instead of proper?
+page 172, line -5: there is a ) missing for the third cohomology group
+page 172, line -2: there is an arrow missing in the bottom right corner
+page 173, line 5: again strictly smaller instead of proper?
