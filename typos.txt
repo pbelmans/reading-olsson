@@ -148,3 +148,21 @@ page 172, line -13: maybe say strictly smaller instead of proper?
 page 172, line -5: there is a ) missing for the third cohomology group
 page 172, line -2: there is an arrow missing in the bottom right corner
 page 173, line 5: again strictly smaller instead of proper?
+
+Wednesday May 6
+---------------
+page 53, line 19: the published version has the warning in 4.42, not 5.3.12
+page 176, line -7: morphism of algebraic *stacks*, not spaces
+page 177, line -19: maybe put remark 8.1.6 before 8.1.4, and there is another definition of a morphism of algebraic stacks in there which should already be given in 8.1.1
+page 177, line -9: u_1, u_2 instead of x, y
+page 182, line -11: T-schemes, not t-schemes
+page 183, line 7: the first factor of the fiber product must be X, not Y
+page 183, line -4: of schemes, not of scheme
+pages 183 and 184: in the definition of a chart you use a space (or scheme) X, but later on you use X' for the same object, maybe the notation can be made consistent
+page 185, line 8: "on the source", not "on source"
+page 190, line -16: the torsor is also denoted \mathcal{P} elsewhere
+page 190, line -7: the torsor is also denoted \mathcal{P} elsewhere
+page 192, line -13: there is a redundant \imath^*
+page 192, line -10: Riemann--Roch is not spelled correctly
+page 193, line 1: fiberwise instead of fiber-wise?
+page 196, line -3: if instead of of
