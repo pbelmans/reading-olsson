@@ -166,3 +166,31 @@ page 192, line -13: there is a redundant \imath^*
 page 192, line -10: Riemann--Roch is not spelled correctly
 page 193, line 1: fiberwise instead of fiber-wise?
 page 196, line -3: if instead of of
+
+Friday May 15
+-------------
+page 199, line 8: X-morphism instead of X-morphisms
+page 199, line 17: RS/X is not set in an upright font, where e.g. Sch/X is
+page 201, line 2: I don't think the notion X_lis-\'et for the topos is already introduced at this point?
+page 202, line 1: should there be a reference to the result that you can slice smooth morphisms by \'etale morphisms, as in tag 05JU in the Stacks project? or is there an easier argument at work here?
+page 203, line 20: there is a superfluous "a composite"
+page 208, line -12: are should be is an
+page 208, line -2: there is a missing comma in the restriction of the simplicial scheme to U
+page 210, line 10: there is an i missing in the derived functor R^i f_*^et
+page 216, line 10: is isomorphic to BG, not G?
+page 217, line -8: Spec and Proj are in different fonts
+page 227, line 10: Chow's lemma, instead of Chow's Lemma
+page 227, line -7: shouldn't the stack also be assumed to be algebraic for completeness' sake?
+page 228, line -12: Special case, not Special Case
+page 230, line 5: ) missing in the fiber product
+page 230, line -10: Special case, not Special Case
+page 231, line -22: Special case, not Special Case
+page 231, line -20: the statement of the theorem ought to start with conditions on X
+page 235, line -5: Special case, not Special Case
+page 237, line -6: scheme-valued instead of scheme valued
+page 238, line -7: the ' is not in math mode (for S')
+page 241, line -2: criterion and properness lowercase
+page 241, line -1: shouldn't Deligne--Mumford be part of the condition because of the appeal to Chow's lemma at the end of the proof?
+
+in the bibliography there are the following issues:
+* the -- between the page numbers is missing in references [10, 22, 30, 33, 44, 48]
